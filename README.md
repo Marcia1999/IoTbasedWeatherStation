@@ -1,5 +1,6 @@
 # IoT based Mini Weather Station 
-# Output Images: 
+Designed IOT based mini weather station using Arduino. This project is used to monitor Humidity and Temperature values over the internet using ThingSpeak Server
+
 # Output in LCD:
 ![image](https://github.com/Marcia1999/IoTbasedWeatherStation/assets/63154325/4de883f9-b7cc-40a5-99b6-e431c119411c)
 ![image](https://github.com/Marcia1999/IoTbasedWeatherStation/assets/63154325/a2205806-30f3-4a54-97e4-a3d17b92b857)
